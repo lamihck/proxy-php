@@ -1,6 +1,6 @@
 <?php
 // The URL of the backend server that browser requests should be proxied to
-$CMS_SERVERHOST = 'http://example.com/';
+$CMS_SERVERHOST = 'https://proxcors.herokuapp.com/';
 
 // The path to the proxy script on the frontend server
 $PROXYNAME = '/proxy/';
