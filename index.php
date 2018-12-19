@@ -14,6 +14,7 @@
  * https url example: https://google.com/adsense
  * 
  */
+header('Access-Control-Allow-Origin:*');
 
 require_once "settings.conf.php";
 require_once "http.inc.php";
